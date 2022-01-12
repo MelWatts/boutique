@@ -1,0 +1,2 @@
+. ${GITPOD_REPO_ROOT}/.vscode/init_tasks.sh
+/home/gitpod/.pg_ctl/bin/pg_start > /dev/null
